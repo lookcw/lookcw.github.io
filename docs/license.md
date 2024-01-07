@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "google meet autocall license"
+title: "license"
 permalink: /license/
 ---
 
