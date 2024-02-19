@@ -14,11 +14,11 @@ permalink: /terms/
 
   
 
-I am Google Meet Autocall ("**Company**," "**we**," "**us**," "**our**"), a person in New York, United States at 37-26 36th St, Long Island City, NY 11101.
+I am Video Call Calendar Auto Call ("**Company**," "**we**," "**us**," "**our**"), a person in New York, United States at 37-26 36th St, Long Island City, NY 11101.
 
   
 
-I operate the website [https://lookcw.github.io/google-meet-autocall/](https://lookcw.github.io/google-meet-autocall/) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
+I operate the website [https://lookcw.github.io/video-call-calendar-auto-call/](https://lookcw.github.io/video-call-calendar-auto-call/) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
   
 
@@ -26,7 +26,7 @@ You can contact us by email at chriswlook@gmail.com or by mail to 37-26 36th St,
 
   
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Google Meet Autocall, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Video Call Calendar Auto Call, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
   
 
@@ -447,7 +447,7 @@ In order to resolve a complaint regarding the Services or to receive further inf
 
   
 
-**Google Meet Autocall**
+**Video Call Calendar Auto Call**
 
 **37-26 36th St**
 
