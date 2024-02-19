@@ -1,15 +1,16 @@
 ---
 layout: page
-title: "Privacy Policy"
+title: "Privacy & Limited Use Policy"
 permalink: /privacy/
 ---
 
 Last updated: January 07, 2024
 
-#### Limited Use Policy
+### Limited Use Policy
 
 Google Meet Autocall's use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements
 
+### Privacy Policy
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
