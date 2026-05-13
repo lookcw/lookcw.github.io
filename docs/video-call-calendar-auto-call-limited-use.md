@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Limited Use Policy"
-permalink: /limited_use_policy/
+title: "Video Call Calendar Auto Call — Limited Use Policy"
+permalink: /video-call-calendar-auto-call/limited-use/
+redirect_from:
+  - /limited_use_policy/
 ---
 
 #### Limited Use Policy
