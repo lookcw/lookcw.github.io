@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Chris Look</title>
-<meta name="generator" content="Jekyll v3.9.0" />
+<meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="Chris Look" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="http://localhost:4000/" />
@@ -29,21 +29,73 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/license/">license</a><a class="page-link" href="/limited_use_policy/">Limited Use Policy</a><a class="page-link" href="/privacy/">Privacy &amp; Limited Use Policy</a><a class="page-link" href="/terms/">Terms of Service</a><a class="page-link" href="/video-call-calendar-auto-call/">Video Call Calendar Auto Call</a></div>
+        <div class="trigger"><a class="page-link" href="/video-call-calendar-auto-call/">Video Call Calendar Auto Call</a><a class="page-link" href="/open-calendar-slots/">Open Calendar Slots</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home">
-<h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Jan 1, 2024</span>
-        <h3>
-          <a class="post-link" href="/jekyll/update/2024/01/01/welcome-to-jekyll.html">
-            Welcome to Jekyll!
-          </a>
-        </h3></li></ul>
+        <style>
+  .tiles {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+  @media (min-width: 600px) {
+    .tiles { grid-template-columns: 1fr 1fr; }
+  }
+  .tile {
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 1.25rem 1.5rem;
+    transition: box-shadow 0.15s ease, transform 0.15s ease;
+  }
+  .tile:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-1px);
+  }
+  .tile h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+  }
+  .tile h2 a { text-decoration: none; }
+  .tile p {
+    color: #586069;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+  }
+  .tile ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .tile li { margin: 0.25rem 0; }
+</style>
 
-    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
+<div class="tiles">
+  <div class="tile">
+    <h2><a href="/video-call-calendar-auto-call/">Video Call Calendar Auto Call</a></h2>
+    <p>Chrome extension that auto-opens your Google Meet calls with a ringtone right when meetings start, so you can stay in flow until it's time.</p>
+    <ul>
+      <li><a href="/video-call-calendar-auto-call/">Project page</a></li>
+      <li><a href="/video-call-calendar-auto-call/privacy/">Privacy policy</a></li>
+      <li><a href="/video-call-calendar-auto-call/terms/">Terms of service</a></li>
+      <li><a href="/video-call-calendar-auto-call/limited-use/">Limited use policy</a></li>
+    </ul>
+  </div>
+
+  <div class="tile">
+    <h2><a href="/open-calendar-slots/">Open Calendar Slots</a></h2>
+    <p>Chrome extension that reads your Google Calendar, finds the gaps between meetings, and gives you a clean list of open times to paste into any message.</p>
+    <ul>
+      <li><a href="/open-calendar-slots/">Project page</a></li>
+      <li><a href="/open-calendar-slots/privacy/">Privacy policy</a></li>
+      <li><a href="/open-calendar-slots/terms/">Terms of service</a></li>
+      <li><a href="/open-calendar-slots/limited-use/">Limited use policy</a></li>
+    </ul>
+  </div>
+</div>
 
       </div>
     </main><footer class="site-footer h-card">
